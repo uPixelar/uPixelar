@@ -81,5 +81,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=upixelar&show_icons=true&theme=dark&locale=en&layout=compact" alt="upixelar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=upixelar&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8" alt="upixelar" />
 </p>
