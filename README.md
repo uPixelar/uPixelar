@@ -1,4 +1,4 @@
-<h3 align="center">Jr. Full Stack developer from Turkey<img src="https://thumbs.gfycat.com/RepentantLittleBrant-size_restricted.gif"></h3>
+<h3 align="center">Jr. Full Stack developer from Turkey<img src="https://thumbs.gfycat.com/RepentantLittleBrant-size_restricted.gif" height="18.72"></h3>
 
 - 👨‍💻 All of my projects are available at [upixelar.github.io](upixelar.github.io)
 
