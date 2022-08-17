@@ -1,4 +1,4 @@
-<h3 align="center">Jr. Full Stack developer from Turkey</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [upixelar.github.io](https://upixelar.github.io)
 
